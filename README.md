@@ -26,4 +26,6 @@ Reporting with colours or simple text.
 
 # Step-by-step implementation Guide
 
-Create a directory name it integrity checker 
+Create a directory name it integrity_checker
+
+
