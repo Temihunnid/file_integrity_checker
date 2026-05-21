@@ -28,4 +28,10 @@ Reporting with colours or simple text.
 
 Create a directory name it integrity_checker
 
+mkdir integrity_checker
+
+create a file in the directory and name it hashes.json
+
+touch hashes.json
+
 
